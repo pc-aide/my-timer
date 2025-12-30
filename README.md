@@ -20,13 +20,11 @@ A simple Chrome extension that provides **two timers side by side** for easy tra
 
 ## Screenshots
 
-![2x Timer main popup](screenshots/timer-popup.png)
+![2x Timer Logo](https://github.com/pc-aide/my-timer/blob/main/icon.png?raw=true)
+*2x Timer extension logo.*
+
+![2x Timer main popup](https://github.com/pc-aide/my-timer/blob/main/screenshot.png?raw=true)
 *Two timers running side by side.*
-
-![2x Timer settings](screenshots/timer-settings.png)
-*Customize timer durations and enable notifications.*
-
-> Note: Replace the image paths with your actual screenshot files.
 
 ## Permissions
 
