@@ -18,6 +18,16 @@ A simple Chrome extension that provides **two timers side by side** for easy tra
 4. Reset or pause timers at any time.
 5. The timers will retain their last set durations even after closing the browser.
 
+## Screenshots
+
+![2x Timer main popup](screenshots/timer-popup.png)
+*Two timers running side by side.*
+
+![2x Timer settings](screenshots/timer-settings.png)
+*Customize timer durations and enable notifications.*
+
+> Note: Replace the image paths with your actual screenshot files.
+
 ## Permissions
 
 - **Storage**: Used to save timer settings locally.
